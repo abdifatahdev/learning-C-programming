@@ -1,2 +1,2 @@
-# learning-C-programming
-This is the reposiory for learning to code in C programming langauge. I will be teaching myself all the basics of C progamming that is require for OSU's CS344 course.
+# programming-in-C
+Repo for my programs as I'm learning syntax of C language for CS344 course at OSU.
