@@ -20,7 +20,13 @@ int main()
 
     printf("\nAbdifatah's age is is %d years old.", age);
     printf("\nMy GPA in college is %f", GPA);
-    printf("\nMy GPA in college is %0.2f", GPA);
+    printf("\nMy GPA in college is %0.2f.\n", GPA);
+
+    int A[5];
+    // int A[5] = {1, 2, 3, 4, 5};
+    A[0] = 6;
+
+    printf("The size of array is: %lu.\n", sizeof(A));
 
     return 0;
 }
